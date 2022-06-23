@@ -1,3 +1,1 @@
-#!/bin/bash
-'My first readme'
-pwd
+Task 0.Where am I?
