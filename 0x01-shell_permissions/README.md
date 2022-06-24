@@ -1,2 +1,1 @@
-#!/bin/bash
-A readme file for repository task
+a script that prints the effective username of the current user
