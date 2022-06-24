@@ -1,2 +1,2 @@
 #!/bin/bash
-Readme file for repository tasks 
+A readme file for repository task
