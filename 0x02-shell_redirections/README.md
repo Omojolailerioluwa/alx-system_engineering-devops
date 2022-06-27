@@ -1,1 +1,1 @@
-a script that writes into the file ls_cwd_content the result of the command ls -la
+a script that deletet deltes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
