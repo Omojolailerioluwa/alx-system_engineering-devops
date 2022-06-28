@@ -1,1 +1,1 @@
-a shell script that creates a file named excatly containing ....... the text best school edning by a new line 
+a shell script that creates a file named exactly............. containg thet text best school ending by a new line
