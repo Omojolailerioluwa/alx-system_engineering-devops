@@ -1,1 +1,1 @@
-a script that creates an alias
+a script that prints the result of the addition of 128 with the value stored in the enviroment variable TRUEKNOWLEDGE followed by a new line
