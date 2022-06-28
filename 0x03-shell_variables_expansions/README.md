@@ -1,1 +1,1 @@
-a script that displays the resultod breath to th epower of love 
+a script that converts a number from base 2 to base 10
